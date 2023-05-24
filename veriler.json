@@ -1,1 +1,7 @@
-
+[{
+    "baslik" : "Başlık verisi",
+    "icerik" : "İçerik bilgileri"
+},{
+    "baslik" : "İkinci başlık verisi",
+    "icerik" : "İkinci içerik bilgileri"
+}]
